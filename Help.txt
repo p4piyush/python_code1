@@ -1,2 +1,5 @@
 this is help file
 --piyush
+
+now 
+git push --set-upstream origin master
